@@ -1,0 +1,7 @@
+name=Disable Vanilla Crowbar Prying
+id=DisableVanillaPry
+description=Removes the vanilla crowbar force-open option from the right-click context menu in B42.22+.
+author=_TheVanial_
+poster=poster.png
+icon=icon.png
+versionMin=42.22.0
